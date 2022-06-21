@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working on 김캐디 for Backend Developer  
+#### 📕 [2017.03 ~ 2023.02] Chung-ang Univ. Computer Science
+#### 🔭 [2022.03 ~ ] I’m currently working on 김캐디 for Backend Developer
   
 #### 📫 How to reach me: lazyologuy@gmail.com
 
