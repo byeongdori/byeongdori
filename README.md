@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 #### 📫 How to reach me : lazyologuy@gmail.com
 #### 🚀 RocketPunch : https://www.rocketpunch.com/@61a71ecc
-#### 📝 LinkedIn : https://www.linkedin.com/in/%EB%B3%91%EC%A3%BC-%EA%B9%80-8a1a97231/
+#### 📝 LinkedIn : https://www.linkedin.com/in/byeongdori
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongdori%2F&count_bg=%23DC9CE0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
