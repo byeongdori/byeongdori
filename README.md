@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 #### 📕 [2017.03 ~ 2023.02] Chung-ang Univ. Computer Science
 #### 🔭 [2022.03 ~ ] I’m currently working on [김캐디](https://kimcaddie.com) for Backend Developer
-  ]
 #### 📫 How to reach me : lazyologuy@gmail.com
 #### 🚀 RocketPunch : https://www.rocketpunch.com/@61a71ecc
 #### 📝 LinkedIn : https://www.linkedin.com/in/byeongdori
